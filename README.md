@@ -111,17 +111,6 @@ For any questions or feedback, reach out to:
 
 ---
 
-### 🎯 Add Image Preview in Markdown
-
-To add an image preview, place a screenshot of your app (e.g., `preview.png`) in the same directory as this README file. Use the following syntax to include it:
-
-```markdown
-![App Screenshot](preview.png)
-```
-
-You can replace `preview.png` with the file name of your image. Ensure the file is added to your repository before pushing to GitHub.
-
----
 
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE).
