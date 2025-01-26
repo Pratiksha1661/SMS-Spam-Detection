@@ -1,7 +1,7 @@
 import streamlit as st
 import pickle
-model= pickle.load(open('spam.pkl','rb'))
-cv=pickle.load(open('vectorizer.pkl','rb'))
+model= pickle.load(open('model.pkl','rb'))
+cv=pickle.load(open('tranfrom.pkl','rb'))
 def main():
     st.title("SMS Spam Detection")
     st.write("This is a simple project to predict whether a SMS is spam or not")
