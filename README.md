@@ -15,7 +15,8 @@ An interactive web application for detecting spam messages using Natural Languag
 
 ## 🖼️ Project Preview
 
-![App Screenshot](preview.png)
+![App Screenshot](spam.png)
+![App Screenshot](notspam.png)
 
 > Add an image of your app interface in the same directory as this README file. Replace `preview.png` with the file name of your screenshot.
 
